@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fjcorvu
-- 👀 I’m interested in the cross path between machine learning and revenue management
-- 🌱 I’m currently learning both python and machine learning engineering
+- 👀 I am a Data Analyst focused on the crossover between Revenue Management and Machine Learning, with a strong background as a BI Analyst & Developer, truty business-minded
+- 🌱 I am currently improving my skills at Machine Learning: Python
 
 <!---
 fjcorvu/fjcorvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
